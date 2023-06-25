@@ -1,2 +1,2 @@
-# T5-Localisation_cartographie
-SNT thème 5 : Localisation cartographie Mobilié
+# T4-Localisation_cartographie
+SNT thème 4 : Localisation cartographie Mobilié
